@@ -1,0 +1,25 @@
+Course: Comp Sci for AP
+
+My name is: Ben Woodworth
+
+My account is: bxw4574
+
+What did you learn by doing this assignment?
+	I learned how to use MVC and the observer pattern.
+
+What was easy about this assignment?
+	Thinking up a solution to the problem description and writing
+	the code were both easy for me.
+
+What was harder than you originally thought?
+	Figuring out MVC and the Observer pattern were hard at first,
+	but I understood them pretty quickly.
+
+What can the instructor do to improve this assignment?
+	I'm not sure.
+
+What would you have liked to do in this assignment?
+	I think the assignment was good the way it was.
+
+What other issues would you like to discuss?
+	There are no other issues I would like to discuss.
